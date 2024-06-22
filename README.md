@@ -1,5 +1,5 @@
- Arjun Shrestha L20467509
-# Data science  Assignment 2
+ Arjun Shrestha 
+# Data science  
 # Dataset  : https://archive.ics.uci.edu/dataset/320/student+performance
 # Requirements
  Pycharm
